@@ -2,7 +2,8 @@
 
 This folder contains the data for the prediction of Oscar winners. The data is not complete yet and will be updated later.
 
-The `oscar_data.csv` was created by Raphael Fontes and David Lu which can be found on GitHub here: https://github.com/DLu/oscar_data/blob/main/oscars.csv. This dataset includes information about Oscar nominees and winners from the 1st to the 95th Academy Awards. Here is the list of the variables and a brief description:
+The `oscar_data.csv` was created by Raphael Fontes and David Lu which can be found on [GitHub here](https://github.com/DLu/oscar_data/blob/main/oscars.csv). 
+This dataset includes information about Oscar nominees and winners from the 1st to the 95th Academy Awards. Here is the list of the variables and a brief description:
 
 
 | Header       | Description                              | Data Type |
