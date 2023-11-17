@@ -1,4 +1,4 @@
-# Oscar Winner Prediction
+# Oscar Prediction
 
 ## Datasets
 This folder contains the data for the prediction of Oscar winners. The data is not complete yet and will be updated later.
