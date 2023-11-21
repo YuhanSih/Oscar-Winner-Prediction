@@ -85,3 +85,10 @@ According to this dataset, Mate Varadi compiled data for predicting the Oscars, 
 
 
 ## References
+Bieske L., Milana D., Rosenberg S. (2023, March 6). "#OscarsSoWhite: The Growth of a Racial Justice Movement." The Media Manipulation Case Book. https://mediamanipulation.org/case-studies/oscarssowhite-growth-racial-justice-movement. 
+
+Sarkisian, J. (2023, August 15). 2024 Oscars: Best Actor category filled with real-life roles for the first time in history? GoldDerby. https://www.goldderby.com/feature/2024-oscars-best-actor-real-life-1205518369/
+
+Zauzmer, B. (2019). Oscarmetrics: The Math Behind the Biggest Night in Hollywood. BearManor Media. 
+
+Zauzmer, B. (2023, March 7). Predicting This Year’s Oscar Winners Using Just Math. The Hollywood Reporter. https://www.hollywoodreporter.com/movies/movie-news/oscars-predictions-2023-math-ben-zauzmer-1235342656/
