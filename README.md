@@ -4,7 +4,7 @@
 The research topic is to explore the factors that contribute to a film’s success at the Academy Awards and to predict Oscar winners.
 
 ## Existing Research
-Ben Zauzmer created an Oscar dataset and a mathematical model to predict the winners of the Oscars. In the book "Oscarmetrics: The Math Behind the Biggest Night in Hollywood," he researched every category of the Oscars using his mathematical model to answer questions such as: Does box office success lead to Oscar wins? Does runtime affect the Oscars? Do the Oscars align with critics and audiences? (Zauzmer, 2019).
+Ben Zauzmer created an Oscar dataset and a mathematical model to predict the winners of the Oscars. In the book *Oscarmetrics: The Math Behind the Biggest Night in Hollywood*, he researched every category of the Oscars using his mathematical model to answer questions such as: Does box office success lead to Oscar wins? Does runtime affect the Oscars? Do the Oscars align with critics and audiences? (Zauzmer, 2019).
 
 Interestingly, Zauzmer did not include box office performance in his model for any category when predicting the Oscars. He argued that the data does not demonstrate a significant impact of box office receipts on Oscar results. This book was published before the pandemic; does this conclusion still hold after the pandemic? During the pandemic, did the Oscars consider films with high box office revenue? This year, Zauzmer also wrote an article for The Hollywood Reporter to predict the Oscars, stating that the models he used have been adjusted over time (Zauzmer, 2023).
 
@@ -85,10 +85,10 @@ According to this dataset, Mate Varadi compiled data for predicting the Oscars, 
 
 
 ## References
-Bieske L., Milana D., Rosenberg S. (2023, March 6). "#OscarsSoWhite: The Growth of a Racial Justice Movement." The Media Manipulation Case Book. https://mediamanipulation.org/case-studies/oscarssowhite-growth-racial-justice-movement. 
+Bieske L., Milana D., Rosenberg S. (2023, March 6). #OscarsSoWhite: The Growth of a Racial Justice Movement. *The Media Manipulation Case Book*. https://mediamanipulation.org/case-studies/oscarssowhite-growth-racial-justice-movement. 
 
-Sarkisian, J. (2023, August 15). 2024 Oscars: Best Actor category filled with real-life roles for the first time in history? GoldDerby. https://www.goldderby.com/feature/2024-oscars-best-actor-real-life-1205518369/
+Sarkisian, J. (2023, August 15). 2024 Oscars: Best Actor category filled with real-life roles for the first time in history? *GoldDerby*. https://www.goldderby.com/feature/2024-oscars-best-actor-real-life-1205518369/
 
-Zauzmer, B. (2019). Oscarmetrics: The Math Behind the Biggest Night in Hollywood. BearManor Media. 
+Zauzmer, B. (2019). *Oscarmetrics: The Math Behind the Biggest Night in Hollywood*. BearManor Media. 
 
-Zauzmer, B. (2023, March 7). Predicting This Year’s Oscar Winners Using Just Math. The Hollywood Reporter. https://www.hollywoodreporter.com/movies/movie-news/oscars-predictions-2023-math-ben-zauzmer-1235342656/
+Zauzmer, B. (2023, March 7). Predicting This Year’s Oscar Winners Using Just Math. *The Hollywood Reporter*. https://www.hollywoodreporter.com/movies/movie-news/oscars-predictions-2023-math-ben-zauzmer-1235342656/
